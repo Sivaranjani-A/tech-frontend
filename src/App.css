@@ -1,0 +1,73 @@
+.landing-page{
+  width: 1440px;
+  height: 6223px;
+  top: -3962px;
+  left: -721px;
+  background: #FFFFFF;
+  
+}
+.navbar-brand{
+  width: 314px;
+height: 48px;
+top: 50px;
+left: 64px;
+font-family: Lato;
+font-size: 40px;
+font-style: italic;
+font-weight: 300;
+line-height: 48px;
+letter-spacing: 0.04em;
+text-align: left;
+
+
+}
+.XYZ{
+  caret-color: #071A45;
+
+}
+.navbar-nav{
+  width: Hug (483px);
+height: Hug (66px);
+top: 40px;
+left: 478px;
+padding: 16 24 16 24;
+gap: 16px;
+border-radius: 80;   
+
+}
+.content{
+  width: Hug (1,237px);
+height: Hug (386px);
+top: 186px;
+left: 102px;
+gap: 40px;
+font-family: Lato;
+font-size: 72px;
+font-style: italic;
+font-weight: 700;
+line-height: 80px;
+letter-spacing: 0.01em;
+text-align: center;
+
+font-family: Lato;
+font-size: 72px;
+font-weight: 800;
+line-height: 80px;
+letter-spacing: 0.01em;
+text-align: center;
+font-family: Lato;
+font-size: 72px;
+font-style: italic;
+font-weight: 700;
+line-height: 80px;
+letter-spacing: 0.01em;
+text-align: center;
+
+font-family: Lato;
+font-size: 72px;
+font-weight: 800;
+line-height: 80px;
+letter-spacing: 0.01em;
+text-align: center;
+
+}
